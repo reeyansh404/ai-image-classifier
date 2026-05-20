@@ -14,3 +14,7 @@ A Streamlit-based image classifier using MobileNetV2.
 
 ## How to Run
 uv run streamlit run main.py
+
+## Screenshot
+
+![AI Image Classifier](Main.png)
